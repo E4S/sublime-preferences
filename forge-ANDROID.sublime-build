@@ -1,0 +1,4 @@
+{
+	"working_dir":"${project_path:${folder}}",
+	"shell_cmd": "/Users/mileswilson/Library/Trigger\\ Toolkit/forge run android"
+}

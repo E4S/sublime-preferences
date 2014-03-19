@@ -1,0 +1,32 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"Bootstrap 3 Snippets",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"Git",
+		"Jinja2",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownBuild",
+		"MarkdownEditing",
+		"Nodejs",
+		"nodejsLauncher",
+		"Package Control",
+		"Puppet",
+		"Puppet Syntax checking",
+		"Ruby on Rails snippets",
+		"SmartMarkdown",
+		"Strapdown Markdown Preview",
+		"SublimeGit",
+		"Theme - Flatland",
+		"Theme - Spacegray",
+		"Zen Tabs"
+	],
+	"repositories":
+	[
+		"https://github.com/michfield/sublime-strapdown-preview.git"
+	]
+}
